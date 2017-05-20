@@ -12,9 +12,9 @@ Paginate = 4
   email = "ray97@163.com"
 
 [[menu.main]]
-    name = "Wikis"
+    name = "Docs"
     weight = -100
-    url = "/wikis/"
+    url = "/docs/"
 [[menu.main]]
     name = "Blog"
     weight = -100
